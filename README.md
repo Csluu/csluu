@@ -1,5 +1,7 @@
 # Hi there, I'm Chris! 👋
 
+I am a motivated and skilled Full Stack Developer with a passion for developing intuitive and innovative solutions. I have experience working with a wide range of technologies including Django, Python, Node.js, React, Javascript, HTML, and CSS. I am committed to staying up to date with the latest development trends and techniques to deliver high-quality software. My goal is to continuously learn and grow as a developer, while collaborating with a team to create meaningful projects that have a positive impact.
+
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=csluu&show_icons=true&theme=radical">
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csluu&layout=compact">
