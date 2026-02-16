@@ -14,9 +14,6 @@ I build and maintain reliable, scalable infrastructure. My focus is on cloud pla
 - Build CI/CD pipelines (GitHub Actions, YAML workflows)
 - Implement monitoring & logging (Prometheus, Grafana, Loki)
 - Automate infrastructure and operational tasks
-- Strengthen security posture and system hardening
-
-I enjoy turning manual processes into automated systems and transforming “it works on my machine” into repeatable, production-ready deployments.
 
 ---
 
