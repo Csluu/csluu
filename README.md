@@ -1,29 +1,71 @@
-# Hi there, I'm Chris! 👋
+# Hey, I’m Chris 👋  
 
-I'm a passionate and skilled full stack developer with expertise in a wide range of technologies. With a focus on creating robust and scalable web applications, I have extensive experience in Django, Python, JavaScript, React, HTML, CSS, and Electron.
+Cloud & DevOps Engineer | Systems Administrator | Automation Enthusiast  
 
-Throughout my career, I have successfully delivered numerous projects, leveraging my strong problem-solving abilities and attention to detail. I enjoy working collaboratively with cross-functional teams, valuing effective communication and a shared commitment to excellence.
+I build and maintain reliable, scalable infrastructure. My focus is on cloud platforms, containerization, automation, and monitoring — making systems resilient, observable, and easy to deploy.
 
-My proficiency in Django enables me to build secure and efficient back-end systems, ensuring seamless data flow and optimal performance. Combined with my expertise in Python, I am adept at developing elegant and maintainable code.
+---
 
-On the front-end, I excel in JavaScript, React, HTML, and CSS, crafting engaging user interfaces that provide an exceptional user experience. I strive to create intuitive designs while incorporating the latest web development practices and trends.
+## 🚀 What I Do
 
-Additionally, my familiarity with Electron allows me to develop cross-platform desktop applications, bridging the gap between web and native technologies.
+- Design and manage cloud infrastructure (Azure, AWS)
+- Containerize applications with Docker
+- Orchestrate workloads with Kubernetes
+- Build CI/CD pipelines (GitHub Actions, YAML workflows)
+- Implement monitoring & logging (Prometheus, Grafana, Loki)
+- Automate infrastructure and operational tasks
+- Strengthen security posture and system hardening
 
-Driven by a passion for continuous learning, I stay up to date with the latest advancements in the field of software development, enabling me to deliver cutting-edge solutions. I thrive in dynamic and fast-paced environments, where I can contribute my expertise to solve complex challenges and drive meaningful innovation.
+I enjoy turning manual processes into automated systems and transforming “it works on my machine” into repeatable, production-ready deployments.
 
-If you are looking for a versatile full stack developer who can bring your ideas to life and deliver exceptional results, feel free to reach out. Let's connect and explore how we can collaborate to create outstanding web applications together.
+---
+
+## 🛠 Core Technologies
+
+### Cloud & Infrastructure
+- Microsoft Azure (AD, MFA, IAM, VM management)
+- AWS (EC2, IAM, VPC fundamentals)
+- Linux & Windows Server Administration
+- Networking fundamentals (DNS, DHCP, TCP/IP)
+
+### DevOps & Automation
+- Docker
+- Kubernetes
+- Helm
+- GitHub Actions
+- Bash / PowerShell scripting
+- Infrastructure as Code fundamentals
+
+### Monitoring & Observability
+- Prometheus
+- Grafana
+- Loki
+- Log aggregation & alerting
+
+---
+
+## 📈 Current Focus
+
+- Deepening Kubernetes expertise
+- Improving CI/CD automation patterns
+- Building production-style home lab environments
+- Expanding into cloud architecture & DevOps certifications
+
+---
+
+## 📊 GitHub Stats
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=csluu&show_icons=true&theme=radical">
-
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csluu&layout=compact">
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+---
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+## 📫 Let’s Connect
+
+I’m always interested in:
+- DevOps & Cloud Engineering roles
+- Infrastructure projects
+- Automation challenges
+- Learning from other engineers building scalable systems
+
+If you're working on something interesting in cloud or infrastructure — let’s talk.
