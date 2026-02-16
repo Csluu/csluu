@@ -50,13 +50,6 @@ I build and maintain reliable, scalable infrastructure. My focus is on cloud pla
 
 ---
 
-## 📊 GitHub Stats
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=csluu&show_icons=true&theme=radical">
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csluu&layout=compact">
-
----
-
 ## 📫 Let’s Connect
 
 I’m always interested in:
